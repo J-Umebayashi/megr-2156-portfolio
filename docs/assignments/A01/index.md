@@ -22,6 +22,9 @@ The governing model for the pliers is Force * Distance1 = Force * Distance2. The
 
 <img width="2268" height="810" alt="Pliers 3" src="https://github.com/user-attachments/assets/6b98e746-1ba8-4409-bb66-a8982d98a0a6" />
 
+The patent I found is US D350,265S, a patent for needle nose pliers. An alternative solution to this patent could be using a pair of vice-grip pliers that lock. 
+
+Tweezers are another option, they can much more accurate than needle nose pliers and fit into tighter areas to retrieve items. 
 
 ## Decide
 
