@@ -15,6 +15,8 @@ Part B:
 I am accessing a pair of needlenose pliers. The primary function of the pliers is to multiply the force applied to the handle through the jaws of the pliers to allow for more clamping force. 
 
 The governing model for the pliers is Force * Distance1 = Force * Distance2. The four variables are the forces applied, and the two different lengths between the grips and the jaws. The pliers operate under the assumption that the handles will not deflect or bend under an applied, sustained load. 
+
+
 ## Decide
 
 ## Communicate
