@@ -16,6 +16,12 @@ I am accessing a pair of needlenose pliers. The primary function of the pliers i
 
 The governing model for the pliers is Force * Distance1 = Force * Distance2. The four variables are the forces applied, and the two different lengths between the grips and the jaws. The pliers operate under the assumption that the handles will not deflect or bend under an applied, sustained load. 
 
+<img width="2268" height="810" alt="Pliers 1" src="https://github.com/user-attachments/assets/96e61186-df6a-4b9f-9002-69cfb1891ebd" />
+
+<img width="2268" height="810" alt="Pliers 2" src="https://github.com/user-attachments/assets/cf095746-b216-4345-abcf-d17317bb62ae" />
+
+<img width="2268" height="810" alt="Pliers 3" src="https://github.com/user-attachments/assets/6b98e746-1ba8-4409-bb66-a8982d98a0a6" />
+
 
 ## Decide
 
