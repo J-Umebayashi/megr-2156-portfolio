@@ -12,7 +12,9 @@ The first portfolio I analyzed, the one created by John Stevens, hits all four r
 The second portfolio viewed had worse quality when compared to the first one. His portfolio is difficult to navigate and some of the features on his page were not properly working. The project gallery on this portfolio is very weak. It acts more as a highlight of sorts, just showcasing the highlights of his projects; it is very surface level detail and lacking depth. It has professional tone, but reproducibility of any project listed would be very tough.
 
 Part B:
-I am accessing a pair of needlenose pliers. 
+I am accessing a pair of needlenose pliers. The primary function of the pliers is to multiply the force applied to the handle through the jaws of the pliers to allow for more clamping force. 
+
+The governing model for the pliers is Force * Distance1 = Force * Distance2. The four variables are the forces applied, and the two different lengths between the grips and the jaws. The pliers operate under the assumption that the handles will not deflect or bend under an applied, sustained load. 
 ## Decide
 
 ## Communicate
