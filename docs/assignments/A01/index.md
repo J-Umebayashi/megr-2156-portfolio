@@ -29,4 +29,6 @@ Tweezers are another option, they can much more accurate than needle nose pliers
 A notable design decision about these pliers is the length of the grips relative to the jaws. While the whole plier is made for a compact package, the handles are still bigger than the jaws, allowing for more force to be applied by the operator. 
 ## Decide
 
+A first-time visitor to an engineering portfolio needs to immediately see your name, your major or occupation, and a table of contents or tabs to navigate to other pages. The organization and structure of a portfolio acts as a direct reflection of a person.
+
 ## Communicate
