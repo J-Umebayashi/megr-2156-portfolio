@@ -26,6 +26,7 @@ The patent I found is US D350,265S, a patent for needle nose pliers. An alternat
 
 Tweezers are another option, they can much more accurate than needle nose pliers and fit into tighter areas to retrieve items. 
 
+A notable design decision about these pliers is the length of the grips relative to the jaws. While the whole plier is made for a compact package, the handles are still bigger than the jaws, allowing for more force to be applied by the operator. 
 ## Decide
 
 ## Communicate
