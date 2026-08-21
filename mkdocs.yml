@@ -8,7 +8,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-
+background: gray
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
