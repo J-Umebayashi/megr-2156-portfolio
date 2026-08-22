@@ -3,6 +3,8 @@ The homepage decisions made on this engineering portfolio were made in the inter
 
 I am going to hold myself to a professional standard of documentation to be judged under professional scruntiny. 
 
+I changed the label in my assignments tab to "Assignments & Projects" 
+
 ## Objective
 Find two engineering portfolios online and analyze each of them. One portfolio must be on GitHub. Look for the following requirements: navigability, reproducibility, evidence of reasoning, and professional tone. 
 ## Analyze
