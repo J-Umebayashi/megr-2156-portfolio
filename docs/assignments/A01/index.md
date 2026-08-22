@@ -1,7 +1,7 @@
 # A1 – [Topic]
 The homepage decisions made on this engineering portfolio were made in the interest of efficiency and easy of navigation. This portfolio serves a purpose of presenting documentation about projects completed. The easier the webpage is to navigate toward the projects will ensure more visibility of the projects. An intuitive page layout can also help navigation.
 
-My Documentation Standard: The standard is the standard, anything less is unacceptable.
+I am going to hold myself to a professional standard of documentation to be judged under professional scruntiny. 
 
 ## Objective
 Find two engineering portfolios online and analyze each of them. One portfolio must be on GitHub. Look for the following requirements: navigability, reproducibility, evidence of reasoning, and professional tone. 
