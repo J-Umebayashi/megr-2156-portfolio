@@ -1,4 +1,8 @@
-site_name: ###MEGR 2156 – Design Portfolio
+# Very Large Text (H1)
+## Large Text (H2)
+### Medium-Large Text (H3)
+
+site_name: MEGR 2156 – Design Portfolio
 site_description: Design portfolio documentation, built with the Analyze / Decide / Communicate framework
 
 theme:
@@ -8,9 +12,9 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-
+    
 nav:
-  - Home: index.md
+  - Home: #index.md
   - About Me: aboutme/index.md
   - Portfolio Overview: portfolio-overview.md
   - Assignments:
