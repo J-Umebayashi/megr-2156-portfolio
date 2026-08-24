@@ -27,11 +27,11 @@ The governing model for the pliers is Force * Distance1 = Force * Distance2. The
 
 <img width="2268" height="810" alt="Pliers 3" src="https://github.com/user-attachments/assets/6b98e746-1ba8-4409-bb66-a8982d98a0a6" />
 
-The patent I found is US D350,265S, a patent for needle nose pliers. An alternative solution to this patent could be using a pair of vice-grip pliers that lock. 
+The patent I found is US D350,265S, a patent for needle nose pliers. The authors of this patent are Kirk E. Melltis and Robert H. Junkel, who were working for Snap-On Corporation at the time. 
 
-Tweezers are another option, they can much more accurate than needle nose pliers and fit into tighter areas to retrieve items. 
+An alternative solution to this patent could be using a pair of vice-grip pliers that lock. Tweezers are another option, they can much more accurate than needle nose pliers and fit into tighter areas to retrieve items, however they are much smaller than most needle nose pliers and their use cases are far fewer. 
 
-A notable design decision about these pliers is the length of the grips relative to the jaws. While the whole plier is made for a compact package, the handles are still bigger than the jaws, allowing for more force to be applied by the operator. 
+A notable design decision about these pliers is the length of the grips relative to the jaws. While the whole plier is made for a compact package, the handles are still bigger than the jaws, allowing for more force to be applied by the operator, which also increases the amount of force the pliers can apply to an object.
 ## Decide
 
 A first-time visitor to an engineering portfolio needs to immediately see your name, your major or occupation, and a table of contents or tabs to navigate to other pages. The organization and structure of a portfolio acts as a direct reflection of a person.
