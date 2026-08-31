@@ -39,6 +39,24 @@ Shown above is my truss with dimensions in Solidworks. I first established the t
 
 <img width="1153" height="671" alt="{F9C76C4F-56AA-437E-AEE8-520E829FE60B}" src="https://github.com/user-attachments/assets/29c2187a-18d8-4126-8899-600b14cc2250" />
 
+<img width="703" height="530" alt="{DE7FF991-B263-4ABC-8495-6D3E606D9C7B}" src="https://github.com/user-attachments/assets/e19222b5-c6ca-49f0-8422-d09d1d170ef7" />
+
+My truss weighs 12.14kg according to the solidworks model, my calculations had the truss weight around 6kg, so there is clearly an error in my hand calculations that needs to be addressed if I were to do this project again. 
+
+For the pin I used cold-rolled 1020 steel. I could not find tool-hardened steel in Solidworks, and I recently learned that cold-rolled steel means that the steel has been hardened, which would act the most like tool-hardened steel from my understanding.
+
+<img width="827" height="568" alt="{359E14B8-13A4-4455-9E17-7EB32DCC37E1}" src="https://github.com/user-attachments/assets/c9fe8454-d378-4e5c-add4-94ef6f211e68" />
+
+Here is my pin modeled in Solidworks to the dimensions I hand-calculated. 
+
+<img width="335" height="299" alt="{1BFC6337-830B-432E-A3E7-FAA01AD7C9A1}" src="https://github.com/user-attachments/assets/80f4b777-4cab-4b63-b89b-39297b25b535" />
+
+MODEL ANALYSIS
+
+After modeling the parts, I began to run FEA on the truss. I used a fixed geometry fixture at points A and B, and I added the forces at pins C and D, using planes within the model to add a direction to each force to mirror the assignment. 
+
+The truss FEA results showed that my design’s lowest safety factor was a 2. Unfortunately, this does not meet the assignment goal of the whole truss having a safety factor of 3.5. 
+
 
 ## Communicate
 
