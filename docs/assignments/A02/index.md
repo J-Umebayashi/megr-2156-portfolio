@@ -8,12 +8,13 @@ For this assignment, I was tasked with designing a 2-D planar truss. The image b
 The distance, a, is 0.4m, b is 0.3m. The two forces labeled P are 25kN, point A is a pin connection, and point B is a roller support. The beams of the truss had to be made from A500 structural steel and the cross-sections had to be equal throughout the beam.
 
 ## Decide
+INTRODUCTION
 I chose a 7 member design, this was the most familiar design I could think of while keeping the truss symmetrical. This isn't the lightist option, but it was the simpliest with geometry and trigonometry.
 
 <img width="1436" height="1915" alt="20260830_232146" src="https://github.com/user-attachments/assets/9eb4f032-01bd-475b-a029-548d0928cf5a" />
 
 ## Analyze
-Solving for Forces
+SOLVING FOR FORCES
 
 The first step was to solve the global equilibrium of the truss, and then find the forces of the individual members within the truss. I performed all of these calculations symbolically first, before plugging in numerical values. Below are the rest of the joint calculations and the numerical solving.
 
