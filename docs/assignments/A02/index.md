@@ -57,6 +57,14 @@ After modeling the parts, I began to run FEA on the truss. I used a fixed geomet
 
 The truss FEA results showed that my design’s lowest safety factor was a 2. Unfortunately, this does not meet the assignment goal of the whole truss having a safety factor of 3.5. 
 
+<img width="1187" height="714" alt="Use this FEA" src="https://github.com/user-attachments/assets/680deb94-a455-4c46-906a-fbe44220dd92" />
+
+The troublesome area is right around the vertex of the middle elements. If I had more time, I would re-work my cross-sectional area calculations to make sure my truss thickness is correct, as I believe that is my first problem. I don’t fully understand the mistakes I made, I may have taken the wrong approach to finding the cross-sectional area, or it could have been a basic algebra error. I did not have enough time to thoroughly go back through my work and fix the mistake. I found doubling the cross-section in Solidworks gave me the safety factor required, but obviously my hand-calculations do not reflect those values. 
+
+My Pin FEA showed a safety factor well below the required amount for the assignment. I think the material difference may be a part of the problem; I also believe my fixturing is a problem, as I used fixed geometry on both ends. 
+
+
+
 
 ## Communicate
 
