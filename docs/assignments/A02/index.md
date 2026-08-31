@@ -9,6 +9,7 @@ The distance, a, is 0.4m, b is 0.3m. The two forces labeled P are 25kN, point A 
 
 ## Decide
 INTRODUCTION
+
 I chose a 7 member design, this was the most familiar design I could think of while keeping the truss symmetrical. This isn't the lightist option, but it was the simpliest with geometry and trigonometry.
 
 <img width="1436" height="1915" alt="20260830_232146" src="https://github.com/user-attachments/assets/9eb4f032-01bd-475b-a029-548d0928cf5a" />
