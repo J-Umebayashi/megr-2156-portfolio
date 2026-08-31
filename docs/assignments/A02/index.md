@@ -63,8 +63,16 @@ The troublesome area is right around the vertex of the middle elements. If I had
 
 My Pin FEA showed a safety factor well below the required amount for the assignment. I think the material difference may be a part of the problem; I also believe my fixturing is a problem, as I used fixed geometry on both ends. 
 
-
-
+<img width="1054" height="438" alt="{8AF50881-4B29-406C-AF49-5E23B23FF335}" src="https://github.com/user-attachments/assets/72857820-014f-452d-91a5-d03ca25de00c" />
 
 ## Communicate
 
+CONCLUSIONS AND LESSONS LEARNED
+This project took me 12 hours to complete. I believe I could have reduced the time to complete this project if I had better planned out the assignment. I should have prioritized certain parts of the assignment and scheduled my work for it accordingly. Also having other assignments and commitments spread out my time on this project. I learned that I need to be more thorough and careful with my algebra. I made multiple mistakes in my calculations that I didn’t notice until I was well past the point where it would be easy to fix them. Organizing my work better would also help me, making it easier for me to assign the important values I need later in the project. 
+I learned the importance of planning and consistency in units and rounding throughout this assignment. I had multiple instances where values changed because of premature rounding in earlier equations or incorrect unit conversions. If I had a better planned strategy of how I was going to attack this assignment, I believe my work would have been more accurate and mistakes would have been way easier to minimize and catch before they caused bigger problems. This project really told me that I need to schedule more time for these projects as the semester continues.
+
+APPENDIX
+Truss File Download: https://drive.google.com/file/d/1x7DGgrM8wVxA5SEGqm4hYjT7EQTpEDFW/view?usp=sharing
+
+Truss Pin File Download:
+https://drive.google.com/file/d/1I-RXwCPJiSEpVLcCKOLhFEUAz4UpNqK-/view?usp=sharing
