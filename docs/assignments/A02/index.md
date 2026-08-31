@@ -33,7 +33,11 @@ CAD MODELING
 
 I used Solidworks 2025 to model my truss and pin due to my familiarity with the software and I already have my license and account set up on my personal laptop. 
 
+<img width="1191" height="673" alt="{DA69EDB6-BA73-4741-9C77-6F5F9E4A7B5D}" src="https://github.com/user-attachments/assets/e1011608-1e06-4686-ae92-8a325ad0ace9" />
 
+Shown above is my truss with dimensions in Solidworks. I first established the top and bottom lengths, constrained them, then drew the inner members of the truss. I used the extrude cut tool to cut the pin holes into the truss, and I used reference geometry to ensure they were all square with the beam and in line with each other. After sketching and extruding the truss, I assigned a material to the truss. Solidworks does not have A500 steel listed in their system, so I decided to use 1035 Steel (SS) since it has the closest yield strength I could find compared to A500. 
+
+<img width="1153" height="671" alt="{F9C76C4F-56AA-437E-AEE8-520E829FE60B}" src="https://github.com/user-attachments/assets/29c2187a-18d8-4126-8899-600b14cc2250" />
 
 
 ## Communicate
