@@ -77,6 +77,7 @@ This project took me 12 hours to complete. I believe I could have reduced the ti
 I learned the importance of planning and consistency in units and rounding throughout this assignment. I had multiple instances where values changed because of premature rounding in earlier equations or incorrect unit conversions. If I had a better planned strategy of how I was going to attack this assignment, I believe my work would have been more accurate and mistakes would have been way easier to minimize and catch before they caused bigger problems. This project really told me that I need to schedule more time for these projects as the semester continues.
 
 APPENDIX
+
 Truss File Download: https://drive.google.com/file/d/1x7DGgrM8wVxA5SEGqm4hYjT7EQTpEDFW/view?usp=sharing
 
 Truss Pin File Download:
