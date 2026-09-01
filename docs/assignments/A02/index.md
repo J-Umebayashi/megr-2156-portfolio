@@ -3,7 +3,7 @@
 ## Objective
 For this assignment, I was tasked with designing a 2-D planar truss. The image below shows some of the parameters assigned.
 
-<img width="297" height="131" alt="{A5125610-F9C3-474D-8E0A-BDB85BDB328E}" src="https://github.com/user-attachments/assets/39cb4bb8-64b9-476e-9e04-75f2db54fd79" />
+<img width="350" height="180" alt="{A5125610-F9C3-474D-8E0A-BDB85BDB328E}" src="https://github.com/user-attachments/assets/39cb4bb8-64b9-476e-9e04-75f2db54fd79" />
 
 The distance, a, is 0.4m, b is 0.3m. The two forces labeled P are 25kN, point A is a pin connection, and point B is a roller support. The beams of the truss had to be made from A500 structural steel and the cross-sections had to be equal throughout the beam.
 
