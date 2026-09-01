@@ -12,14 +12,14 @@ INTRODUCTION
 
 I chose a 7 member design, this was the most familiar design I could think of while keeping the truss symmetrical. This isn't the lightist option, but it was the simpliest with geometry and trigonometry.
 
-<img width="1436" height="1915" alt="20260830_232146" src="https://github.com/user-attachments/assets/9eb4f032-01bd-475b-a029-548d0928cf5a" />
+<img width="1713" height="2284" alt="20260831_122519" src="https://github.com/user-attachments/assets/d90b0e86-5126-4b98-9d8e-97b68f4434b2" />
 
 ## Analyze
 SOLVING FOR FORCES
 
 The first step was to solve the global equilibrium of the truss, and then find the forces of the individual members within the truss. I performed all of these calculations symbolically first, before plugging in numerical values. Below are the rest of the joint calculations and the numerical solving.
 
-<img width="1713" height="2284" alt="20260831_122519" src="https://github.com/user-attachments/assets/d90b0e86-5126-4b98-9d8e-97b68f4434b2" />
+<img width="1436" height="1915" alt="20260830_232146" src="https://github.com/user-attachments/assets/9eb4f032-01bd-475b-a029-548d0928cf5a" />
 
 <img width="1484" height="1979" alt="20260830_232416" src="https://github.com/user-attachments/assets/c1ac1689-ea5c-441d-934a-9d70cd0d7bd5" />
 
