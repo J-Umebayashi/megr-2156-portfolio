@@ -12,7 +12,7 @@ Max Axial Deflection: 0.009”
 
 - Bar must have a circular cross-sectional area.
 
-## Decide
+## Analyze
 
 I chose to model my bar with 6061-T6 aluminum, which as a Young’s Modulus value of 10 x 106 psi. The bar has a diameter of 1.5 inches, and a cross-sectional area of 1.767 in2. The image below shows the direct tensions elongation equation and the hand calculations to double check the Solidworks equations and to ensure I was plugging in the correct variables and had the correct algebra for finding the length.
 
@@ -67,6 +67,13 @@ LESSONS LEARNED
 
 There weren’t any massive mistakes made throughout this project. Most of my errors came from algebra errors; just causing me to redo some equations. I began this project earlier than the last one, which allowed me more time overall to double check my work and ensure I was on the right path with this project. I was skeptical of my bar calculations, but after double checking with Dr. Fagan, I knew I was good. My planning and documentation were a lot better than the second project because I was more aware of them and developed better processes of having a more thorough documentation. 
 I spent about 4.5 hours on this. I broke this up into chunks, which may have slowed my progress, but I feel overall my efficiency was acceptable. 
+
+APPENDIX
+
+Bar Solidworks file:
+
+https://drive.google.com/file/d/1cbJgsDErlTogaHCNnKYsVD76j8toZPoy/view?usp=sharing
+
 
 
 
