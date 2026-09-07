@@ -72,7 +72,9 @@ APPENDIX
 
 Bar Solidworks file:
 
-https://drive.google.com/file/d/1cbJgsDErlTogaHCNnKYsVD76j8toZPoy/view?usp=sharing
+[Bar Solidworks file](https://drive.google.com/file/d/1cbJgsDErlTogaHCNnKYsVD76j8toZPoy/view?usp=sharing)
+
+
 
 
 
