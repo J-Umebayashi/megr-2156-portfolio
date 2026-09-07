@@ -42,9 +42,31 @@ After modeling, I began to set up the FEA. I fixtured one side of the bar, and a
 After assigning fixtures, forces, and creating a mesh on the body, I began running the studies. Below are all the maps that were generated from the FEA, with the scales included. 
 
 <img width="967" height="384" alt="von Mises standard" src="https://github.com/user-attachments/assets/ef0abc32-c768-4e67-a733-585ec5a39fc7" />
+This is the Von Mises map and also shows max stress.  
 
+<img width="821" height="458" alt="Displacement standard" src="https://github.com/user-attachments/assets/f35ab5a4-81fd-453a-acb6-e81bf57adfda" />
+This is the deflection map.
 
+The max stress according to the FEA studies is 207.2 psi, which converts to 0.2072 ksi. This is well under the 40 ksi limit for Aluminum strength. A quick calculation gives the safety factor.
+40/0.2072  = 193.050 
+The safety factor of this bar is approximately 193. 
 
+DESIGN REFLECTION
+
+<img width="3000" height="836" alt="20260907_151558" src="https://github.com/user-attachments/assets/f46c6cdb-d9de-47a3-bcbd-e5bed1674e54" />
+
+These are the hand calculations I performed between the FEA deflection value and the calculated deflection value from the axial deflection equation and the values I used to determine the length of the beam. The two values have a very slight difference, only 0.2%. I expected these values to agree due to the same equations being used in Solidworks and on paper. Since this bar is experiencing a simple axial deflection, there isn’t much difference between paper and the computer. I think the 0.2% difference comes from Solidworks rounding numbers more than I did on paper.
+
+I found the stress concentration value to be 3. This was found on page 216 of the Machinery’s Handbook. The max stress of the bar going away from the hole is 207.2psi. Multiplying this value by the concentration value gives a peak stress of 621.6psi. The hole decreases the bars’ safety factor from 193 to approximately 64. This will still pass the safety factor.
+
+<img width="1320" height="1760" alt="20260907_161148" src="https://github.com/user-attachments/assets/237ef30b-b375-4697-9ed8-58576b88defd" />
 
 ## Communicate
+
+LESSONS LEARNED
+
+There weren’t any massive mistakes made throughout this project. Most of my errors came from algebra errors; just causing me to redo some equations. I began this project earlier than the last one, which allowed me more time overall to double check my work and ensure I was on the right path with this project. I was skeptical of my bar calculations, but after double checking with Dr. Fagan, I knew I was good. My planning and documentation were a lot better than the second project because I was more aware of them and developed better processes of having a more thorough documentation. 
+I spent about 4.5 hours on this. I broke this up into chunks, which may have slowed my progress, but I feel overall my efficiency was acceptable. 
+
+
 
