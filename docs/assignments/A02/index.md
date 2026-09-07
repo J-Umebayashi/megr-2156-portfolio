@@ -78,7 +78,6 @@ I learned the importance of planning and consistency in units and rounding throu
 
 APPENDIX
 
-Truss File Download: https://drive.google.com/file/d/1x7DGgrM8wVxA5SEGqm4hYjT7EQTpEDFW/view?usp=sharing
+[Truss File Download](https://drive.google.com/file/d/1x7DGgrM8wVxA5SEGqm4hYjT7EQTpEDFW/view?usp=sharing)
 
-Truss Pin File Download:
-https://drive.google.com/file/d/1I-RXwCPJiSEpVLcCKOLhFEUAz4UpNqK-/view?usp=sharing
+[Truss Pin File Download](https://drive.google.com/file/d/1I-RXwCPJiSEpVLcCKOLhFEUAz4UpNqK-/view?usp=sharing)
