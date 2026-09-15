@@ -4,7 +4,7 @@ INTRODUCTION
 
 The assignment for this week is to design a motor mount keeping in mind deflection and yield strength. 
 
-<img width="116" height="95" alt="Motor Mount Diagram" src="https://github.com/user-attachments/assets/c686f561-64a3-44c6-895a-11ba2776e6ce" />
+<img width="146" height="115" alt="Motor Mount Diagram" src="https://github.com/user-attachments/assets/c686f561-64a3-44c6-895a-11ba2776e6ce" />
 
 P = 300N
 
@@ -44,4 +44,4 @@ I made multiple mistakes with the stress and deflection calculations, I need to 
 
 APPENDIX
 
-Motor Mount Download
+[Motor Mount Download](https://drive.google.com/file/d/1M5mqIdqha5pJvLeY8OAc7MEhnuoXzOj6/view)
