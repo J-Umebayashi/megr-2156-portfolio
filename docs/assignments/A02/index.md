@@ -1,21 +1,18 @@
 # A2 – Truss Stress Analysis
 
-## Objective
 For this assignment, I was tasked with designing a 2-D planar truss. The image below shows some of the parameters assigned.
 
 <img width="900" height="500" alt="{A5125610-F9C3-474D-8E0A-BDB85BDB328E}" src="https://github.com/user-attachments/assets/39cb4bb8-64b9-476e-9e04-75f2db54fd79" />
 
 The distance, a, is 0.4m, b is 0.3m. The two forces labeled P are 25kN, point A is a pin connection, and point B is a roller support. The beams of the truss had to be made from A500 structural steel and the cross-sections had to be equal throughout the beam.
 
-## Decide
-INTRODUCTION
+## Introduction
 
 I chose a 7 member design, this was the most familiar design I could think of while keeping the truss symmetrical. This isn't the lightist option, but it was the simpliest with geometry and trigonometry.
 
 <img width="1713" height="522" alt="Truss sketch" src="https://github.com/user-attachments/assets/9c5076d4-8403-41a1-9f5a-857ad7953b2e" />
 
-## Analyze
-SOLVING FOR FORCES
+## Solving for Forces
 
 The first step was to solve the global equilibrium of the truss, and then find the forces of the individual members within the truss. I performed all of these calculations symbolically first, before plugging in numerical values. Below are the rest of the joint calculations and the numerical solving.
 
@@ -33,7 +30,7 @@ After finding the reaction forces and internal forces of the beam, I moved on to
 
 The photos above shows my calculations for the pin cross section and diameter as well. The pins in the truss are in single shear, and needed a safety factor of 4. All pins had to be the exact same size. 
 
-CAD MODELING
+## CAD Modeling
 
 I used Solidworks 2025 to model my truss and pin due to my familiarity with the software and I already have my license and account set up on my personal laptop. 
 
@@ -55,8 +52,7 @@ Here is my pin modeled in Solidworks to the dimensions I hand-calculated.
 
 <img width="335" height="299" alt="{1BFC6337-830B-432E-A3E7-FAA01AD7C9A1}" src="https://github.com/user-attachments/assets/80f4b777-4cab-4b63-b89b-39297b25b535" />
 
-MODEL ANALYSIS
-
+## Model Analysis
 After modeling the parts, I began to run FEA on the truss. I used a fixed geometry fixture at points A and B, and I added the forces at pins C and D, using planes within the model to add a direction to each force to mirror the assignment. 
 
 The truss FEA results showed that my design’s lowest safety factor was a 2. Unfortunately, this does not meet the assignment goal of the whole truss having a safety factor of 3.5. 
@@ -69,9 +65,7 @@ My Pin FEA showed a safety factor well below the required amount for the assignm
 
 <img width="1054" height="438" alt="{8AF50881-4B29-406C-AF49-5E23B23FF335}" src="https://github.com/user-attachments/assets/72857820-014f-452d-91a5-d03ca25de00c" />
 
-## Communicate
-
-CONCLUSIONS AND LESSONS LEARNED
+## Conclusions and Lessons Learned
 
 This project took me 12 hours to complete. I believe I could have reduced the time to complete this project if I had better planned out the assignment. I should have prioritized certain parts of the assignment and scheduled my work for it accordingly. Also having other assignments and commitments spread out my time on this project. I learned that I need to be more thorough and careful with my algebra. I made multiple mistakes in my calculations that I didn’t notice until I was well past the point where it would be easy to fix them. Organizing my work better would also help me, making it easier for me to assign the important values I need later in the project. 
 I learned the importance of planning and consistency in units and rounding throughout this assignment. I had multiple instances where values changed because of premature rounding in earlier equations or incorrect unit conversions. If I had a better planned strategy of how I was going to attack this assignment, I believe my work would have been more accurate and mistakes would have been way easier to minimize and catch before they caused bigger problems. This project really told me that I need to schedule more time for these projects as the semester continues.
