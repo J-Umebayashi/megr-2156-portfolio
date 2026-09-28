@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Bracket Drawing
 
 ## Introduction
 The assignment for this week is a continuation of the assignment from last week. The task this week is to parametrically dimension a Solidworks model of the bracket created. For reference, here is the model diagram from last week that the assignment is based around.
