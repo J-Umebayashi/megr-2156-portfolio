@@ -1,4 +1,4 @@
-# A3 – [Topic]
+# A3 – Parametric and FEA design
 
 ## Objective
 The assignment for this week was to design a bar using two analysis types, axial deflection and finite element analysis (FEA). 
@@ -12,15 +12,13 @@ Max Axial Deflection: 0.009”
 
 - Bar must have a circular cross-sectional area.
 
-## Analyze
+## Solidworks
 
 I chose to model my bar with 6061-T6 aluminum, which as a Young’s Modulus value of 10 x 106 psi. The bar has a diameter of 1.5 inches, and a cross-sectional area of 1.767 in2. The image below shows the direct tensions elongation equation and the hand calculations to double check the Solidworks equations and to ensure I was plugging in the correct variables and had the correct algebra for finding the length.
 
 <img width="1732" height="2309" alt="20260905_181224" src="https://github.com/user-attachments/assets/30fbab1b-849a-4a4c-8059-ad895b1e8e00" />
 
 The bar length I calculated was 454.371 in., I was skeptical of this value at first due to the length, but after checking my calculations and talking to Dr. Fagan, I am confident that I used these equations correctly. 
-
-SOLIDWORKS
 
 After I finished my hand calculations, I moved over to Solidworks. Same as last week, I am using Solidworks 2025. I began my model by assigning and defining all the global variables and equations I had from my hand calculations. 
 
@@ -31,7 +29,7 @@ I made sure to use the same variables I used on paper to ensure I didn’t flip 
 
 <img width="997" height="534" alt="Sketch" src="https://github.com/user-attachments/assets/0c0b8925-04dc-41b4-ad8b-021fc4a4c45d" />
 
-FINITE ELEMENT ANALYSIS
+## FINITE ELEMENT ANALYSIS
 
 After modeling, I began to set up the FEA. I fixtured one side of the bar, and applied the 350lbf to the other side, just like the diagram on the assignment sheet. 
 
@@ -51,7 +49,7 @@ The max stress according to the FEA studies is 207.2 psi, which converts to 0.20
 40/0.2072  = 193.050 
 The safety factor of this bar is approximately 193. 
 
-DESIGN REFLECTION
+## DESIGN REFLECTION
 
 <img width="3000" height="836" alt="20260907_151558" src="https://github.com/user-attachments/assets/f46c6cdb-d9de-47a3-bcbd-e5bed1674e54" />
 
@@ -61,14 +59,12 @@ I found the stress concentration value to be 3. This was found on page 216 of th
 
 <img width="1320" height="1760" alt="20260907_161148" src="https://github.com/user-attachments/assets/237ef30b-b375-4697-9ed8-58576b88defd" />
 
-## Communicate
-
-LESSONS LEARNED
+## LESSONS LEARNED
 
 There weren’t any massive mistakes made throughout this project. Most of my errors came from algebra errors; just causing me to redo some equations. I began this project earlier than the last one, which allowed me more time overall to double check my work and ensure I was on the right path with this project. I was skeptical of my bar calculations, but after double checking with Dr. Fagan, I knew I was good. My planning and documentation were a lot better than the second project because I was more aware of them and developed better processes of having a more thorough documentation. 
 I spent about 4.5 hours on this. I broke this up into chunks, which may have slowed my progress, but I feel overall my efficiency was acceptable. 
 
-APPENDIX
+## APPENDIX
 
 Bar Solidworks file:
 
