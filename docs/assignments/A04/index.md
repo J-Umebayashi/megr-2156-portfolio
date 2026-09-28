@@ -1,6 +1,6 @@
 # A4 – Motor Mount
 
-INTRODUCTION
+## Introduction
 
 The assignment for this week is to design a motor mount keeping in mind deflection and yield strength. 
 
@@ -10,7 +10,7 @@ P = 300N
 
 Here is the diagram to base our designs around. The motor weight can be neglected in design, and a safety factor of 3 is required in design. We have the option to use ABS, PETG, or PLA for the material of the mount. 
 
-FEATURE 1
+## Feature 1
 
 The photos below show my process of using equations to determine the cross sectional area of feature 1 of the mount. I started with the stress equations and then worked through the deflection equations. I am designing my mount using ABS for the material. The yield strength and Young’s Modulus is recorded on my paper with the work and other variables. 
 
@@ -18,13 +18,13 @@ The photos below show my process of using equations to determine the cross secti
 
 <img width="1362" height="1816" alt="20260915_003038" src="https://github.com/user-attachments/assets/cf18e091-eeec-4040-897e-7b44acae5e30" />
 
-FEATURE 2
+## Feature 2
 
 After running the calculations for feature 1, I moved on to feature two. The photo above shows the start of the work, and the image below shows the rest of the work. 
 
 <img width="1362" height="1816" alt="20260915_003038" src="https://github.com/user-attachments/assets/0b5f0558-aa99-4dba-accd-fb98ea8833ab" />
 
-SOLIDWORKS
+## Solidworks
 
 After determining the thickness of each feature from the equations, I drew up a model before modeling in Solidworks. 
 
@@ -38,10 +38,10 @@ I chose 75mm for the length of feature 2 because the motor measures about 74mm l
 
 Here are the parametric equations used to model the mount and a screenshot of the mount itself.
 
-LESSONS LEARNED
+## Lessons Learned
 
 I made multiple mistakes with the stress and deflection calculations, I need to practice solving those types of problems and get more familiar with them. Otherwise I think this project was relatively straightforward. The Solidworks was smooth and parametric modeling is making more sense the more I do it. This project took me about 9 hours to complete. 
 
-APPENDIX
+## Appendix
 
 [Motor Mount Download](https://drive.google.com/file/d/1M5mqIdqha5pJvLeY8OAc7MEhnuoXzOj6/view)
