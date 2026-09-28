@@ -1,4 +1,4 @@
-# A1 – [Topic]
+# A1 – Portfolio Analysis
 The homepage decisions made on this engineering portfolio were made in the interest of efficiency and easy of navigation. This portfolio serves a purpose of presenting documentation about projects completed. The easier the webpage is to navigate toward the projects will ensure more visibility of the projects. An intuitive page layout can also help navigation.
 
 I am going to hold myself to a professional standard of documentation to be judged under professional scruntiny. 
@@ -36,4 +36,3 @@ A notable design decision about these pliers is the length of the grips relative
 
 A first-time visitor to an engineering portfolio needs to immediately see your name, your major or occupation, and a table of contents or tabs to navigate to other pages. The organization and structure of a portfolio acts as a direct reflection of a person.
 
-## Communicate
