@@ -52,3 +52,9 @@ The tolerance I assigned to feature E was 0.005. This fit is a friction fit betw
 
 I struggled at first creating the drawing. This was my first time creating an engineering drawing from Solidworks, and it took me a while to understand what I was doing. Assigning and defining the tolerances was also challenging. I found I couldn’t get the correct number of decimal places to display on my dimensions and the global equations in Solidworks kept rounding my dimensions. I’m sure there is a feature I’m overlooking, but I am not sure how to currently resolve this issue. This assignment took me about 6 hours to complete. I have a better fundamental understanding of tolerances and fits now. 
 
+## Appendix
+
+Bracket CAD Model (https://drive.google.com/file/d/1O96cCDnLjjbx4GAkwktWwXFytYgAuhEN/view?usp=drive_link)
+
+Bracket Drawing(https://drive.google.com/file/d/17lk_BuCntjR_icL_sptR8Prdbux2qswJ/view?usp=drive_link)
+
