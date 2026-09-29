@@ -54,7 +54,7 @@ I struggled at first creating the drawing. This was my first time creating an en
 
 ## Appendix
 
-Bracket CAD Model (https://drive.google.com/file/d/1O96cCDnLjjbx4GAkwktWwXFytYgAuhEN/view?usp=drive_link)
+[Bracket CAD Model](https://drive.google.com/file/d/1O96cCDnLjjbx4GAkwktWwXFytYgAuhEN/view?usp=drive_link)
 
-Bracket Drawing(https://drive.google.com/file/d/17lk_BuCntjR_icL_sptR8Prdbux2qswJ/view?usp=drive_link)
+[Bracket Drawing](https://drive.google.com/file/d/17lk_BuCntjR_icL_sptR8Prdbux2qswJ/view?usp=drive_link)
 
