@@ -12,9 +12,9 @@ The assignment for this week is running FEA (finite element analysis) on the bra
 
 | FEA # | Element # | Safety Factor | Max Stress | Max Deflection |
 | --- | --- | --- | --- | --- |
-| 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 2 | Row 1, Col 3 |
-| 2 | Row 2, Col 2 | Row 2, Col 3 | Row 1, Col 2 | Row 1, Col 3 |
-| 3 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 2 | Row 1, Col 3 | 
+| 1 | 13547 | 0.1 | 2.735e9 | 8.603e0 |
+| 2 | 27844 | 0.099 | 2.785e9 | 8.712e0 |
+| 3 | 62303 | 0.092 | 2.973e9 | 8.970e0 | 
 
 
 
