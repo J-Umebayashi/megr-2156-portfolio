@@ -74,5 +74,24 @@ Below are photos from each FE simulation, in order from 1 to 3.
 
 <img width="725" height="509" alt="fea 2 33" src="https://github.com/user-attachments/assets/b53846f9-6da3-4e4d-88b5-8959050ef666" />
 
+## Design 2 Optimization
+Design Two is experiencing the same issues as Design One. The safety factor has slightly improved, but not being a meaningful amount in the overall design. I think I am going to need to take a massive swing at the third design to achieve the safety factor goal of 4, considering how far off the current design is.
+
+## Design 3 
+
+<img width="392" height="607" alt="Design 3 ss" src="https://github.com/user-attachments/assets/70d2c872-91d3-4e7c-bfc3-4436a126495f" />
+
+Here is my update for design 3. I took a big swing at the support by adding a second mount from the body of the bracket to the hanger. I had to extend the cylinder length to ensure that the strap would still fit the bracket. I made this change because I needed a big increase in safety factor. 
+
+## Design 3 Data
+
+| FEA # | Element # | Safety Factor | Max Stress | Max Deflection |
+| --- | --- | --- | --- | --- |
+| 1 | 14307 | 1.5 | 1.779e8 | 6.000e-1 |
+| 2 | 25321 | 1.4 | 2.029e8 | 6.031e-1 |
+| 3 | 63718 | 1.1 | 2.575e8 | 6.073e-1 | 
+
+Below are screenshots from the FEAs run on this design model. Every round of FEA had an increased mesh made for more precise results. 
+
 
 
