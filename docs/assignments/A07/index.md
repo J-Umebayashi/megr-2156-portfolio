@@ -124,3 +124,13 @@ The biggest lesson I learned from this assignment is the fact that I should have
 [Bracket Model 2 Download](https://drive.google.com/file/d/1VKrv2iOdLvIl_9jzSrC_tfglzMj8p4Xx/view?usp=sharing)
 
 [Bracket Model 3 Download](https://drive.google.com/file/d/1BS54wyY13fwin73DTgGTTHO56KCzJy_s/view?usp=sharing)
+
+FEA Mesh slider values
+
+<img width="151" height="293" alt="Mesh Qual  1" src="https://github.com/user-attachments/assets/91fdf53f-0109-4ffc-ba44-e9af046f4d4d" />
+
+<img width="143" height="306" alt="Mesh Qual  2" src="https://github.com/user-attachments/assets/60384e75-bb3b-4f58-a7c5-43d08522aed7" />
+
+<img width="147" height="305" alt="Mesh Qual  3" src="https://github.com/user-attachments/assets/63716c69-9276-4802-8392-73013e079673" />
+
+
