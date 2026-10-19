@@ -121,3 +121,6 @@ The biggest lesson I learned from this assignment is the fact that I should have
 
 ## Appendix
 
+[Bracket Model 2 Download](https://drive.google.com/file/d/1VKrv2iOdLvIl_9jzSrC_tfglzMj8p4Xx/view?usp=sharing)
+
+[Bracket Model 3 Download](https://drive.google.com/file/d/1BS54wyY13fwin73DTgGTTHO56KCzJy_s/view?usp=sharing)
