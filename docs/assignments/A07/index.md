@@ -117,7 +117,7 @@ The design changes made between 2 and 3 had the most impact on the FEA results. 
 
 ## Reflections
 
-The biggest lesson I learned from this assignment is the fact that I should have made bigger changes earlier in the design iterations. The changes from 2 to 3 made the biggest difference in the FEA, whereas the updates from 1 to 2 only made a slight difference. I should be more willing to try bigger changes to get the results needed. When running the analysis on the third design, I noticed the FEA process took longer to compute, which I assume is a side effect of having a more complicated part to analyze. This assignment has taken me about 7 hours to complete. 
+The biggest lesson I learned from this assignment is the fact that I should have made bigger changes earlier in the design iterations. The changes from 2 to 3 made the biggest difference in the FEA, whereas the updates from 1 to 2 only made a slight difference. I should be more willing to try bigger changes to get the results needed. I noticed the vast difference between the course mesh FEAs and the fine mesh. The computation time is noticeably longer for the fine mesh. I am curious why I had to run all three FEAs for each design, as none of my FEAs converged to 7 percent. This assignment has taken me about 7 hours to complete. 
 
 ## Appendix
 
