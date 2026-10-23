@@ -18,23 +18,23 @@ The assignment for this week is running FEA (finite element analysis) on the bra
 
 These three photos are from the first FE analysis.
 
-<img width="732" height="475" alt="fea 1 11" src="https://github.com/user-attachments/assets/057b816e-8280-4b0a-a056-8ac97ed96730" />
+<img width="680" height="551" alt="fea 1 11" src="https://github.com/user-attachments/assets/e09a13c7-0ccd-405f-9b38-203053f78967" />
 
-<img width="799" height="491" alt="fea 1 12" src="https://github.com/user-attachments/assets/f007fd09-0464-4161-a108-e9eeae386a26" />
+<img width="630" height="551" alt="fea 1 12" src="https://github.com/user-attachments/assets/9aeae20d-015f-43bf-8da8-938fc1c7f2c5" />
 
-<img width="745" height="445" alt="fea 1 14" src="https://github.com/user-attachments/assets/730e792b-dd25-4e1b-9a5c-4be3dc35e704" />
+<img width="594" height="533" alt="fea 1 13" src="https://github.com/user-attachments/assets/a7977412-05a2-4d94-a88f-9cfb7263d62c" />
 
-<img width="700" height="481" alt="FEA 1 21" src="https://github.com/user-attachments/assets/3f5d0076-884a-40cb-8b69-1129ca338972" />
+<img width="747" height="532" alt="fea 1 21" src="https://github.com/user-attachments/assets/2731d0c2-7ac4-442f-b4c8-03fc425edd5b" />
 
-<img width="672" height="467" alt="fea 1 22" src="https://github.com/user-attachments/assets/0f3893d4-fd1f-4936-951d-e31048c137fd" />
+<img width="743" height="530" alt="fea 1 22" src="https://github.com/user-attachments/assets/cb68fbe7-57e2-4eba-9186-80e315d1e27d" />
 
-<img width="803" height="523" alt="fea 1 23" src="https://github.com/user-attachments/assets/1687189d-2d3f-40a2-89cc-d5445646f8b3" />
+<img width="683" height="512" alt="fea 1 23" src="https://github.com/user-attachments/assets/fe5ff2be-0594-4da9-81e5-45ae40f40a13" />
 
-<img width="644" height="381" alt="fea 1 31" src="https://github.com/user-attachments/assets/49b9f680-799b-4114-8c4c-ea222591383f" />
+<img width="644" height="381" alt="fea 1 31" src="https://github.com/user-attachments/assets/8826ce66-7470-4d4b-b3cf-5689bf3c2ebe" />
 
-<img width="666" height="382" alt="fea 1 32" src="https://github.com/user-attachments/assets/d8c7c9ac-cb8f-4ef9-988a-692e2cdd8f61" />
+<img width="666" height="382" alt="fea 1 32" src="https://github.com/user-attachments/assets/c730007f-f65d-4d83-a9a4-1b9c979a1a2a" />
 
-<img width="651" height="393" alt="fea 1 33" src="https://github.com/user-attachments/assets/36b625fb-909e-4da2-adb3-3b24de928545" />
+<img width="596" height="368" alt="fea 1 34" src="https://github.com/user-attachments/assets/f19ebce7-17c8-465a-bc8f-2bc3a58a814e" />
 
 ## Design 1 Optimization
 
