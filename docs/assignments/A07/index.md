@@ -127,10 +127,18 @@ The biggest lesson I learned from this assignment is the fact that I should have
 
 FEA Mesh slider values
 
-<img width="151" height="293" alt="Mesh Qual  1" src="https://github.com/user-attachments/assets/91fdf53f-0109-4ffc-ba44-e9af046f4d4d" />
+<img width="140" height="237" alt="Mesh Qual  1" src="https://github.com/user-attachments/assets/01652131-9b4a-41b9-be5c-430a3c918f1d" />
 
-<img width="143" height="306" alt="Mesh Qual  2" src="https://github.com/user-attachments/assets/60384e75-bb3b-4f58-a7c5-43d08522aed7" />
+<img width="135" height="241" alt="Mesh Qual 2" src="https://github.com/user-attachments/assets/1df07bc5-6326-4cab-a64a-dfdf3d39ba4a" />
 
 <img width="147" height="305" alt="Mesh Qual  3" src="https://github.com/user-attachments/assets/63716c69-9276-4802-8392-73013e079673" />
+
+<img width="617" height="486" alt="Fixed Surfaces" src="https://github.com/user-attachments/assets/1f18c9cf-cfab-4a3b-b37d-49ae58e25e1b" />
+
+Surfaces Fixed in FEA
+
+<img width="696" height="320" alt="FEA forces" src="https://github.com/user-attachments/assets/ce2f25f5-8f61-43f6-9489-ecf9b6288573" />
+
+Forces modeled in FEA
 
 
