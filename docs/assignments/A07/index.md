@@ -56,17 +56,17 @@ For this design I thickened the support on the bottom of the bracket.
 
 Below are photos from each FE simulation, in order from 1 to 3.
 
-<img width="701" height="451" alt="Fea 2 11" src="https://github.com/user-attachments/assets/c5b1fdb7-cbac-46d2-adf9-3f9e3ecee235" />
+<img width="633" height="530" alt="fea 2 11" src="https://github.com/user-attachments/assets/6cf5709b-177e-433b-98d2-d2e9299062cf" />
 
-<img width="736" height="473" alt="Fea 2 12" src="https://github.com/user-attachments/assets/72e46b22-8ed4-4dfc-a074-239ae03944d2" />
+<img width="644" height="544" alt="fea 2 12" src="https://github.com/user-attachments/assets/5f5d1ea7-7058-425d-97b2-fbb45e8a45a2" />
 
-<img width="770" height="501" alt="Fea 2 13" src="https://github.com/user-attachments/assets/f1129ca5-d8b4-4aaf-8b76-a9f8e91ab045" />
+<img width="618" height="517" alt="fea 2 13" src="https://github.com/user-attachments/assets/9fca1ef0-2ab3-4ac4-bdde-946ba62fc89c" />
 
-<img width="756" height="510" alt="fea 2 21" src="https://github.com/user-attachments/assets/646730b1-5f8b-4c7a-afc2-51b0119070cc" />
+<img width="653" height="543" alt="fea 2 21" src="https://github.com/user-attachments/assets/1e52dd95-72c4-4800-8420-4922de8731b4" />
 
-<img width="751" height="518" alt="fea 2 22" src="https://github.com/user-attachments/assets/135e0c67-cffe-492a-8132-1086644c5413" />
+<img width="654" height="542" alt="fea 2 22" src="https://github.com/user-attachments/assets/c333312f-e97c-4ef3-a829-e0db7cc5dc9a" />
 
-<img width="744" height="504" alt="fea 2 23" src="https://github.com/user-attachments/assets/675e33d8-5dba-434b-8b44-518da038aecb" />
+<img width="669" height="516" alt="fea 2 23" src="https://github.com/user-attachments/assets/4b25f6a5-cfe2-4c3f-9152-1a742f7f562e" />
 
 <img width="756" height="555" alt="fea 2 31" src="https://github.com/user-attachments/assets/1b80e43d-ac74-4a11-b2c6-af47d0eec5aa" />
 
