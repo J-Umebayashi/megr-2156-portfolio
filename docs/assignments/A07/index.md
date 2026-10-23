@@ -93,17 +93,17 @@ Here is my update for design 3. I took a big swing at the support by adding a se
 
 Below are screenshots from the FEAs run on this design model. Every round of FEA had an increased mesh made for more precise results. 
 
-<img width="682" height="489" alt="FEA 3 11" src="https://github.com/user-attachments/assets/bdd87d02-0a47-4903-a534-6f1e4b48daeb" />
+<img width="627" height="509" alt="fea 3 11" src="https://github.com/user-attachments/assets/d922c83d-4a04-4a47-91fa-25e9a85b0acc" />
 
-<img width="652" height="483" alt="FEA 3 12" src="https://github.com/user-attachments/assets/4b78a7b6-ca7d-4cac-bbe4-de0a2e400f0d" />
+<img width="599" height="499" alt="fea 3 12" src="https://github.com/user-attachments/assets/5842532c-f66c-4f96-92da-a1523586a76f" />
 
-<img width="648" height="466" alt="FEA 3 13" src="https://github.com/user-attachments/assets/4ff4b8a9-b0be-4795-899d-85eb8d51ae7b" />
+<img width="612" height="484" alt="fea 3 13" src="https://github.com/user-attachments/assets/40605dcd-91eb-4860-b8c6-1515e8608ee9" />
 
-<img width="656" height="483" alt="FEA 3 21" src="https://github.com/user-attachments/assets/7759206f-b131-4e7c-9140-57824abf0d2c" />
+<img width="660" height="503" alt="fea 3 21" src="https://github.com/user-attachments/assets/b04011df-e8aa-4dd1-bf59-952450b08897" />
 
-<img width="628" height="476" alt="FEA 3 22" src="https://github.com/user-attachments/assets/fa3564f7-5294-48ca-a582-c04cfa2c86c5" />
+<img width="633" height="523" alt="fea 3 22" src="https://github.com/user-attachments/assets/adf5684e-5727-4562-96a9-0d80ae94e814" />
 
-<img width="645" height="480" alt="FEA 3 23" src="https://github.com/user-attachments/assets/4bedc16d-f1aa-4b4c-9e5a-f68e319c33c9" />
+<img width="616" height="482" alt="fea 3 23" src="https://github.com/user-attachments/assets/ae354cc2-f735-46bb-be88-aa2eb078f645" />
 
 <img width="643" height="489" alt="FEA 3 31" src="https://github.com/user-attachments/assets/b9eae39a-8cf7-4966-a9d1-74b9327bd0b7" />
 
