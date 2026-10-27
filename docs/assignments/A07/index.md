@@ -10,11 +10,11 @@ The assignment for this week is running FEA (finite element analysis) on the bra
 ## Design 1 Data
 
 
-| FEA # | Element # | Safety Factor | Max Stress | Max Deflection |
-| --- | --- | --- | --- | --- |
-| 1 | 1318 | 0.17 | 2.844e9 | 5.515e0 |
-| 2 | 8514 | 0.11 | 2.614e9 | 8.430e0 |
-| 3 | 62303 | 0.092 | 2.973e9 | 8.970e0 | 
+| FEA # | Element # | Safety Factor | Max Stress | Max Deflection | Mass |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 1318 | 0.17 | 2.844e9 | 5.515e0 | 0.43 |
+| 2 | 8514 | 0.11 | 2.614e9 | 8.430e0 | 0.43 |
+| 3 | 62303 | 0.092 | 2.973e9 | 8.970e0 | 0.43 |
 
 These three photos are from the first FE analysis.
 
@@ -48,11 +48,11 @@ For this design I thickened the support on the bottom of the bracket.
 
 ## Design 2 Data
 
-| FEA # | Element # | Safety Factor | Max Stress | Max Deflection |
-| --- | --- | --- | --- | --- |
-| 1 | 1217 | 0.97 | 2.846e8 | 5.515e-1 |
-| 2 | 8652 | 0.76 | 3.636e8 | 6.059e-1 |
-| 3 | 62720 | 0.58 | 4.737e8 | 6.233e-1 | 
+| FEA # | Element # | Safety Factor | Max Stress | Max Deflection | Mass |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 1217 | 0.97 | 2.846e8 | 5.515e-1 | 0.45 |
+| 2 | 8652 | 0.76 | 3.636e8 | 6.059e-1 | 0.45 |
+| 3 | 62720 | 0.58 | 4.737e8 | 6.233e-1 | 0.45 |
 
 Below are photos from each FE simulation, in order from 1 to 3.
 
@@ -85,11 +85,11 @@ Here is my update for design 3. I took a big swing at the support by adding a se
 
 ## Design 3 Data
 
-| FEA # | Element # | Safety Factor | Max Stress | Max Deflection |
-| --- | --- | --- | --- | --- |
-| 1 | 1306 | 1.9 | 1.425e8 | 5.849e-1 |
-| 2 | 8680 | 1.6 | 1.703e8 | 5.978e-1 |
-| 3 | 63718 | 1.1 | 2.575e8 | 6.073e-1 | 
+| FEA # | Element # | Safety Factor | Max Stress | Max Deflection | Mass |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 1306 | 1.9 | 1.425e8 | 5.849e-1 | 0.55 |
+| 2 | 8680 | 1.6 | 1.703e8 | 5.978e-1 | 0.55 |
+| 3 | 63718 | 1.1 | 2.575e8 | 6.073e-1 | 0.55| 
 
 Below are screenshots from the FEAs run on this design model. Every round of FEA had an increased mesh made for more precise results. 
 
