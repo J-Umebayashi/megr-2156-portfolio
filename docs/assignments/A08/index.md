@@ -58,3 +58,16 @@ Once again timing really bites me with this assignment. I had three midterms the
 
 [Gearbox Assembly](https://drive.google.com/file/d/1pB4NUxkpz_mj4s9-9e-1pBvWTeHo4_N8/view?usp=sharing)
 
+[Gearbox Housing](https://drive.google.com/file/d/1rJCWrIMwxy58xJEU-6MS53LHD2dXbsTO/view?usp=sharing)
+
+[Input Shaft](https://drive.google.com/file/d/1a3MJxh6Fb74yPsCFHHK_cRpBQhNFLjmm/view?usp=sharing)
+
+[Output Shaft](https://drive.google.com/file/d/1-9TcB3uMLVug_uM4THLiMYuBonRMmBMM/view?usp=sharing)
+
+[Gear](https://drive.google.com/file/d/1DG084SkbmNMDKovDl3m20jxW3f-6Yxd3/view?usp=sharing)
+
+[Gear](https://drive.google.com/file/d/1eOvXRpTzoSWEhgFqfV40OileGGtndkUh/view?usp=sharing)
+
+[Bronze Bearing](https://drive.google.com/file/d/1NjRHVXPc0cMRTNywuwhMzIU-bkeNGQ6X/view?usp=sharing)
+
+[Acetal Bearing](https://drive.google.com/file/d/1NjRHVXPc0cMRTNywuwhMzIU-bkeNGQ6X/view?usp=sharing)
