@@ -56,5 +56,5 @@ Once again timing really bites me with this assignment. I had three midterms the
 
 ## Appendix
 
-(Gearbox Assembly)[https://drive.google.com/file/d/1pB4NUxkpz_mj4s9-9e-1pBvWTeHo4_N8/view?usp=sharing]
+[Gearbox Assembly](https://drive.google.com/file/d/1pB4NUxkpz_mj4s9-9e-1pBvWTeHo4_N8/view?usp=sharing)
 
