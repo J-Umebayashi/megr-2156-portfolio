@@ -53,7 +53,7 @@ Listed outside diameter: 1.125 in
 
 | Item Number | Quantity | Name | Part Number | Cost Per Item | Total Cost | McMaster-Carr link |
 | 1 | 2 | Lead Screw | 98940A305 | $28.64 | $57.28 | [McMaster Link](https://www.mcmaster.com/98940A305) |
-| 2 | 6| Lead Flange Nut | 95072A109 | $37.61 | $225.66 | [McMaster Link](https://www.mcmaster.com/95072A109/) |
+| 2 | 6 | Lead Flange Nut | 95072A109 | $37.61 | $225.66 | [McMaster Link](https://www.mcmaster.com/95072A109/) |
 | 3 | 2 | Aluminum Extrusion (2') | 47065T107 | $20.42 | [McMaster Link](https://www.mcmaster.com/47065T107/) |
 | 4 | 2 | Aluminum Extursion (1') | 47065T107 | $10.82 | [McMaster Link](https://www.mcmaster.com/47065T107-47065T418/) |
 | -- | -- | --| -- | Total Cost | $345.42 | -- |
@@ -61,8 +61,20 @@ Listed outside diameter: 1.125 in
 
 ## Solidworks Modeling
 
+For this assignment we decided to use Solidworks 2025 due to myself having a lot of experience using the software. The first steps to this assembly was to download and constrain the aluminum extrusion in my assembly. 
 
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+<img width="363" height="592" alt="Frame Photo" src="https://github.com/user-attachments/assets/e0bcc033-0348-46de-b425-7f5bac201e2b" />
 
-## Communicate
+## Lesson Learned (Jake) 
+
+This project gave us a better perspective of how to work in a collaborative environment. Since everyone was responsible for different parts of the design, staying organized and communicating was important throughout the process. Since many of the concepts were unfamiliar to us, we sometimes had to learn as we went. Despite these challenges, everyone contributed and helped each other when problems came up, which made completing the project much easier.
+The hand calculations were a difficult portion of this project, as we were trying to learn the math with this concept as we worked through this project. The lead screw torque and speed calculations helped us understand the relationship between the mechanical components and the load being lifted. 
+(Grady ) Estimated time spent: 8 hours
+
+## Appendix
+
+[Tensile Tester Assembly](https://drive.google.com/file/d/13MK_gmIlnatUi68tKK01akT6jR8U6zMS/view?usp=sharing)
+
+[Crosshead Part File](https://drive.google.com/file/d/1BkTuy0WSr6zFH3ea23k925uKD80fjn3L/view?usp=sharing)
+
 
